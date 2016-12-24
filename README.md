@@ -17,7 +17,7 @@ Easy implementation
 - [Modify a file](examples/Modify.php)
 - [List files from a directory](examples/ListFiles.php)
 - [Direct file handler](examples/DirectFile.php)
-- [Use own logg](examples/Log.php)
+- [Use own log](examples/Log.php)
 - [Use on the fly encryption](examples/Encrypt.php)
 
 ## Installation ##
