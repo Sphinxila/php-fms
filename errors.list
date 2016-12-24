@@ -1,0 +1,5 @@
+404 Invalid
+333 Decode error
+512 Not ready (This means mostly the handle is not initialized means the file is not opened)
+681 Not a directory
+682 Permission denied

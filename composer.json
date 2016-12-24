@@ -1,0 +1,26 @@
+{
+  "name" : "composer/php-fms",
+  "type": "library",
+  "description": "PHP - File management library",
+  "keywords": ["file management lib"],
+  "license": "GPL v3",
+  "authors": [
+    {
+      "name": "Sphinx",
+      "email": "sphinx@sphinx.li",
+      "homepage": "http://sphinx.li",
+      "role": "Author"
+    }
+  ],
+  "require": {
+    "php": ">=7.1.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "PHPFms\\" : "php-fms/classes",
+      "PHPFms\\Template\\": "php-fms/classes/template",
+      "PHPFms\\Exception\\" : "php-fms/classes/exception"
+    }
+  },
+  "minimum-stability": "dev"
+}
