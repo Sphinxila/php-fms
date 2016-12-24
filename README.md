@@ -18,7 +18,7 @@ Easy implementation
 - [List files from a directory](examples/ListFiles.php)
 - [Direct file handler](examples/DirectFile.php)
 - [Use own logg](examples/Log.php)
-- [Use on the fly encryption](examples/Enccrypt.php)
+- [Use on the fly encryption](examples/Encrypt.php)
 
 ## Installation ##
 To use this library you need to add the following in your composer.json
