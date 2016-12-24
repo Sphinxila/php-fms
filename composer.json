@@ -1,5 +1,5 @@
 {
-  "name" : "composer/php-fms",
+  "name" : "Sphinxila/php-fms",
   "type": "library",
   "description": "PHP - File management library",
   "keywords": ["file management lib"],
